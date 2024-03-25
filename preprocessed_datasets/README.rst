@@ -22,7 +22,7 @@ Available Datasets
 .. _StackOverflow: https://github.com/qiang2100/STTM/blob/master/dataset/StackOverflow.txt
 
 Load a preprocessed dataset
-----------------------------
+---------------------------
 
 To load one of the already preprocessed datasets as follows:
 
@@ -36,7 +36,7 @@ Just use one of the dataset names listed above. Note: it is case-sensitive!
 
 
 Load a custom preprocessed dataset
-----------------------------
+----------------------------------
 
 Otherwise, you can load a custom preprocessed dataset in the following way:
 
