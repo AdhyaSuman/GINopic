@@ -17,15 +17,15 @@ We have used the following datasets:
 +----------------+----------------+--------+---------+----------+
 | Name           | Source         | # Docs | # Words | # Labels |
 +================+================+========+=========+==========+
-| 20NewsGroups    | 20Newsgroups_   | 16309  | 1612    | 20       |
+| 20NewsGroups   | 20Newsgroups_  | 16309  |   1612  |    20    |
 +----------------+----------------+--------+---------+----------+
-| BBC_News       | BBC-News_      | 2225   | 2949    | 5        |
+| BBC_News       | BBC-News_      |  2225  |   2949  |     5    |
 +----------------+----------------+--------+---------+----------+
-| SearchSnippets | SearchSnippets_| 12270  | 2000    | 8        |
+| SearchSnippets | SearchSnippets_| 12270  |   2000  |     8    |
 +----------------+----------------+--------+---------+----------+
-| Bio            | Bio_           | 18686  | 2000    | 20       |
+| Bio            | Bio_           | 18686  |   2000  |    20    |
 +----------------+----------------+--------+---------+----------+
-| StackOverflow  | StackOverflow_ | 15696  | 1860    | 20       |
+| StackOverflow  | StackOverflow_ | 15696  |   1860  |    20    |
 +----------------+----------------+--------+---------+----------+
 
 .. _20Newsgroups: https://scikit-learn.org/0.19/datasets/twenty_newsgroups.html
