@@ -1,6 +1,8 @@
-=======
-GINopic
-=======
+
+.. image:: https://github.com/AdhyaSuman/GINopic/blob/master/Miscellaneous/GINopic_logo.png?raw=true
+  :width: 200
+  :align: center
+  :alt: Logo
 **GINopic** is a framework for Graph Isomorphism Network (GIN)-based topic modeling. It leverages document similarity graphs to improve word correlations within topic modeling.
 
 
