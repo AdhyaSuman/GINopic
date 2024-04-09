@@ -17,7 +17,7 @@ We have used the following datasets:
 +----------------+----------------+--------+---------+----------+
 | Name           | Source         | # Docs | # Words | # Labels |
 +================+================+========+=========+==========+
-| 20NewsGroup    | 20Newsgroup_   | 16309  | 1612    | 20       |
+| 20NewsGroups    | 20Newsgroups_   | 16309  | 1612    | 20       |
 +----------------+----------------+--------+---------+----------+
 | BBC_News       | BBC-News_      | 2225   | 2949    | 5        |
 +----------------+----------------+--------+---------+----------+
@@ -28,7 +28,7 @@ We have used the following datasets:
 | StackOverflow  | StackOverflow_ | 15696  | 1860    | 20       |
 +----------------+----------------+--------+---------+----------+
 
-.. _20Newsgroup: https://scikit-learn.org/0.19/datasets/twenty_newsgroups.html
+.. _20Newsgroups: https://scikit-learn.org/0.19/datasets/twenty_newsgroups.html
 .. _BBC-News: https://github.com/MIND-Lab/OCTIS
 .. _Bio: https://github.com/qiang2100/STTM/blob/master/dataset/Biomedical.txt
 .. _SearchSnippets: https://github.com/qiang2100/STTM/blob/master/dataset/SearchSnippets.txt
