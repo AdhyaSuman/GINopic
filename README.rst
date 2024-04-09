@@ -34,7 +34,26 @@ We have used the following datasets:
 
 How to cite this work?
 ----------------------
-This work has been accepted at NAACL 2024! (citation will be available soon)
+
+This work has been accepted at ECIR 2023!
+
+Read the paper in `arXiv`_.
+
+If you decide to use this resource, please cite:
+
+.. _`arXiv`: https://arxiv.org/abs/2404.02115
+
+
+::
+
+ @misc{adhya2024ginopic,
+      title={GINopic: Topic Modeling with Graph Isomorphism Network}, 
+      author={Suman Adhya and Debarshi Kumar Sanyal},
+      year={2024},
+      eprint={2404.02115},
+      archivePrefix={arXiv},
+      primaryClass={cs.CL}
+      }
   
 
 Acknowledgment
