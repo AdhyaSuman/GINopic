@@ -38,7 +38,7 @@ We have used the following datasets:
 How to cite this work?
 ----------------------
 
-This work has been accepted at ECIR 2023!
+This work has been accepted at NAACL 2024!
 
 Read the paper in `arXiv`_.
 
