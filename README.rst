@@ -40,23 +40,35 @@ How to cite this work?
 
 This work has been accepted at NAACL 2024!
 
-Read the paper in `arXiv`_.
+Read the paper in :
 
-If you decide to use this resource, please cite:
+1. `ACL Anthology`_
+
+2. `ArXiv`_
+
+.. _`ACL Anthology`: https://aclanthology.org/2024.naacl-long.342/
 
 .. _`arXiv`: https://arxiv.org/abs/2404.02115
 
 
 ::
 
- @misc{adhya2024ginopic,
-      title={GINopic: Topic Modeling with Graph Isomorphism Network}, 
-      author={Suman Adhya and Debarshi Kumar Sanyal},
-      year={2024},
-      eprint={2404.02115},
-      archivePrefix={arXiv},
-      primaryClass={cs.CL}
-      }
+ @inproceedings{adhya2024ginopic,
+    title = "{GIN}opic: Topic Modeling with Graph Isomorphism Network",
+    author = "Adhya, Suman  and
+      Sanyal, Debarshi",
+    editor = "Duh, Kevin  and
+      Gomez, Helena  and
+      Bethard, Steven",
+    booktitle = "Proceedings of the 2024 Conference of the North American Chapter of the Association for Computational Linguistics: Human Language Technologies (Volume 1: Long Papers)",
+    month = jun,
+    year = "2024",
+    address = "Mexico City, Mexico",
+    publisher = "Association for Computational Linguistics",
+    url = "https://aclanthology.org/2024.naacl-long.342",
+    pages = "6171--6183",
+    abstract = "Topic modeling is a widely used approach for analyzing and exploring large document collections. Recent research efforts have incorporated pre-trained contextualized language models, such as BERT embeddings, into topic modeling. However, they often neglect the intrinsic informational value conveyed by mutual dependencies between words. In this study, we introduce GINopic, a topic modeling framework based on graph isomorphism networks to capture the correlation between words. By conducting intrinsic (quantitative as well as qualitative) and extrinsic evaluations on diverse benchmark datasets, we demonstrate the effectiveness of GINopic compared to existing topic models and highlight its potential for advancing topic modeling.",
+}
   
 
 Acknowledgment
