@@ -4,8 +4,6 @@ import torch
 
 class GINOPICDataset(Dataset):
 
-    """Class to load BoW and the contextualized embeddings."""
-
     def __init__(self, X_bow, X_graphs, idx2token):
 
         if X_bow.shape[0] != len(X_graphs):
