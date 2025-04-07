@@ -52,7 +52,7 @@ This work has been accepted at **NAACL 2024**! 🎉
 
 ---
 
-## 🏆 Acknowledgment
+## Acknowledgment
 All experiments were conducted using **[OCTIS](https://github.com/MIND-Lab/OCTIS)**, an integrated framework for topic modeling, comparison, and optimization.
 
 📌 **Reference:** Silvia Terragni, Elisabetta Fersini, Bruno Giovanni Galuzzi, Pietro Tropeano, and Antonio Candelieri. (2021). *"OCTIS: Comparing and Optimizing Topic Models is Simple!"* [EACL](https://www.aclweb.org/anthology/2021.eacl-demos.31/).
