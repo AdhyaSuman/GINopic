@@ -26,6 +26,24 @@ We used the following datasets for evaluation:
 
 ---
 
+## 📘 Tutorials
+
+To understand and use GINopic efficiently, we provide a tutorial notebook that demonstrates how to run the model, evaluate results, and explore the outputs.
+
+You can open it directly in Google Colab using the badge below:
+
+[![Open in Colab](https://colab.research.google.com/assets/colab-badge.svg)](https://colab.research.google.com/github/AdhyaSuman/GINopic/blob/master/Notebooks/Example.ipynb)
+
+> 📁 **Path:** `Notebooks/Example.ipynb`
+
+This notebook demonstrates:
+
+* How to load a dataset and configure GINopic
+* Run the topic modeling pipeline
+* Evaluate performance and visualize the results
+
+---
+
 ## 📖 Citation
 This work has been accepted at **NAACL 2024**! 🎉
 
